@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1becb135ca817cbe05add10441ec6562\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\64ce281f89395251f71c2ab672a08e7e\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c41ede116cf93a3220e86e90f178004f\transformed\navigation-common-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0264dc916ef12ad3ec4203f1e0c573f2\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\499c23a1b16819adffa3fa03820afe84\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\42126ee520a639bc5f83ae7cd0289560\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f6b41f842eb606cac570738d9da84eca\transformed\navigation-compose-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.constraintlayout:constraintlayout-compose-android:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\208877941340b4447f6f1cded89d7d1a\transformed\constraintlayout-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90864e926dfd053b7f95776ca5bc851f\transformed\hilt-android-2.51.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6334571f6cfa569b5b08a26cb9e39b63\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4bf616f542d4c76ca58bce67d50d7ea\transformed\lottie-6.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\95a4217674a665b46a7461d87546ab63\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fb374d8a162da280eb798dab97e49cc9\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3d73e2070cb3b088fa30a615021ade4c\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4e2d656e53c66ae7909bc2f51acc88c\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2ea45d2bef511e044c04a3e4e6eb83a4\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\19ea70a908151da06ae754d8e124bad3\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\7fc89e52d9c621e12b3c30fbc97d48bb\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4400c081c51af8dba43ddd7294bed620\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\611a801bd817426ddac218b93c67c338\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\dee7f1bf7a471c4103e5573aeb5e4aeb\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\11b1cbba97ed015a3873898808c13b21\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\69d101574ec150b5f4ece738233876cc\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2cb2fc257d05e3d8ba352d0f246796ac\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\06c3cea0ca66098a8b3bcb6da928b7cb\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bed0bd8183d769db106f1f6a7520fae1\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\17d929ed2714846ae2e596903ef32083\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1247077f2106673e1f37c9de7cc2479a\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e78a3b9817ededa8b5757d3eaa9a671b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9410c4ab684ae1f93f52e53be0943152\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b7a7cf23b5de65b6ca96eb59fe41aaa2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c2c36e819c00284118afd08ded0ae770\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d4a0607f37209cdb1c7f57945097c99d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90b1abc5159267c50f004c5cd43e2d7e\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3a31333b8705aa98e0103afb291b8dd9\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b4f119b53cdb0f8d8073c1078657e4dc\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b5aa8c4273b4be11c74a81f617a63c70\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\38e604c3f3279a05875980966fd3cfc5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\da362827063c94c4f8e68b70f795eb6a\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\13b1991700c5c056824b9aeb8940d56a\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46e2698575f7bd7ca3db2dddbbaa75c8\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8c3d0b554a6a5e054ea5910494373882\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\975946c6c0b224c194fb6a1ee1144bcd\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\05735486abaa0232de7505457cf32b91\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bea8dce5f7660aec7ee4e3280bcb0ce1\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8033cb968c3ac852cc8fc9cfe6eebb3\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\74242cf24a9cb4ce563f39ed4ede5a82\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\15a161501a700942e1a1a7cc549b8aee\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\a9f7757ed05a1519e3770652edb0e144\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\53d1277b5ea1312aa6b6111499bd9178\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9e3079a89423dbbec76a7d363b27dc10\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\816f03fad6dbf1ec2f40d2d047ee0b77\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\de9e57193576039d4ce1bd932e835e5c\transformed\activity-1.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4d2ffd4d65433960d37ab26d0283dd7a\transformed\activity-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2e014dacd155c35c69763b762c9f4de7\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8b2bfe03ceb06fe4106fcb45c98b1d4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0ab1bc8735ec0d2a08fb1a9ce873bad1\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5fcce4415961bd6fdc76f352e2a1ca84\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6fce3fc46d7e7c5c74faaaaa46e40048\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\20bd675250621832d1844b97001f0426\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\baf22b1b2f984b13bd6846508acd8f08\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5f7ea4519b50860ba98a5f03ee329fb6\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f220e106d99fd1f7a6bf4d8bc13ed0a9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e4238bde6bc3b19b90bed391e7895d88\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8f064835b28fdbe5b907df6a676ebfcc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4b963895792f30003c2b981435d88690\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b1c5c4d42104516024f8f2a26cf2d7f7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\428b1b810ef9f127d1c82265ccb39f1a\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:7:5-29:19
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4bf616f542d4c76ca58bce67d50d7ea\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4bf616f542d4c76ca58bce67d50d7ea\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e4238bde6bc3b19b90bed391e7895d88\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e4238bde6bc3b19b90bed391e7895d88\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:17:9-41
+	android:networkSecurityConfig
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:12:9-69
+	android:dataExtractionRules
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:9:9-36
+activity#com.itandcstech.SocialX.MainActivity
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:exported
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1becb135ca817cbe05add10441ec6562\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1becb135ca817cbe05add10441ec6562\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\64ce281f89395251f71c2ab672a08e7e\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\64ce281f89395251f71c2ab672a08e7e\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c41ede116cf93a3220e86e90f178004f\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c41ede116cf93a3220e86e90f178004f\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0264dc916ef12ad3ec4203f1e0c573f2\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0264dc916ef12ad3ec4203f1e0c573f2\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\499c23a1b16819adffa3fa03820afe84\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\499c23a1b16819adffa3fa03820afe84\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\42126ee520a639bc5f83ae7cd0289560\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\42126ee520a639bc5f83ae7cd0289560\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f6b41f842eb606cac570738d9da84eca\transformed\navigation-compose-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.5] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f6b41f842eb606cac570738d9da84eca\transformed\navigation-compose-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout-compose-android:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\208877941340b4447f6f1cded89d7d1a\transformed\constraintlayout-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout-compose-android:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\208877941340b4447f6f1cded89d7d1a\transformed\constraintlayout-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90864e926dfd053b7f95776ca5bc851f\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90864e926dfd053b7f95776ca5bc851f\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6334571f6cfa569b5b08a26cb9e39b63\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6334571f6cfa569b5b08a26cb9e39b63\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4bf616f542d4c76ca58bce67d50d7ea\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4bf616f542d4c76ca58bce67d50d7ea\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\95a4217674a665b46a7461d87546ab63\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\95a4217674a665b46a7461d87546ab63\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fb374d8a162da280eb798dab97e49cc9\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fb374d8a162da280eb798dab97e49cc9\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3d73e2070cb3b088fa30a615021ade4c\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3d73e2070cb3b088fa30a615021ade4c\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4e2d656e53c66ae7909bc2f51acc88c\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c4e2d656e53c66ae7909bc2f51acc88c\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2ea45d2bef511e044c04a3e4e6eb83a4\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2ea45d2bef511e044c04a3e4e6eb83a4\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\19ea70a908151da06ae754d8e124bad3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\19ea70a908151da06ae754d8e124bad3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\7fc89e52d9c621e12b3c30fbc97d48bb\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\7fc89e52d9c621e12b3c30fbc97d48bb\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4400c081c51af8dba43ddd7294bed620\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4400c081c51af8dba43ddd7294bed620\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\611a801bd817426ddac218b93c67c338\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\611a801bd817426ddac218b93c67c338\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\dee7f1bf7a471c4103e5573aeb5e4aeb\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\dee7f1bf7a471c4103e5573aeb5e4aeb\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\11b1cbba97ed015a3873898808c13b21\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\11b1cbba97ed015a3873898808c13b21\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\69d101574ec150b5f4ece738233876cc\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\69d101574ec150b5f4ece738233876cc\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2cb2fc257d05e3d8ba352d0f246796ac\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2cb2fc257d05e3d8ba352d0f246796ac\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\06c3cea0ca66098a8b3bcb6da928b7cb\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\06c3cea0ca66098a8b3bcb6da928b7cb\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bed0bd8183d769db106f1f6a7520fae1\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bed0bd8183d769db106f1f6a7520fae1\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\17d929ed2714846ae2e596903ef32083\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\17d929ed2714846ae2e596903ef32083\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1247077f2106673e1f37c9de7cc2479a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\1247077f2106673e1f37c9de7cc2479a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e78a3b9817ededa8b5757d3eaa9a671b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e78a3b9817ededa8b5757d3eaa9a671b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9410c4ab684ae1f93f52e53be0943152\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9410c4ab684ae1f93f52e53be0943152\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b7a7cf23b5de65b6ca96eb59fe41aaa2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b7a7cf23b5de65b6ca96eb59fe41aaa2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c2c36e819c00284118afd08ded0ae770\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\c2c36e819c00284118afd08ded0ae770\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d4a0607f37209cdb1c7f57945097c99d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d4a0607f37209cdb1c7f57945097c99d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90b1abc5159267c50f004c5cd43e2d7e\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\90b1abc5159267c50f004c5cd43e2d7e\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3a31333b8705aa98e0103afb291b8dd9\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\3a31333b8705aa98e0103afb291b8dd9\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b4f119b53cdb0f8d8073c1078657e4dc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b4f119b53cdb0f8d8073c1078657e4dc\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b5aa8c4273b4be11c74a81f617a63c70\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b5aa8c4273b4be11c74a81f617a63c70\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\38e604c3f3279a05875980966fd3cfc5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\38e604c3f3279a05875980966fd3cfc5\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\da362827063c94c4f8e68b70f795eb6a\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\da362827063c94c4f8e68b70f795eb6a\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\13b1991700c5c056824b9aeb8940d56a\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\13b1991700c5c056824b9aeb8940d56a\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46e2698575f7bd7ca3db2dddbbaa75c8\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46e2698575f7bd7ca3db2dddbbaa75c8\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8c3d0b554a6a5e054ea5910494373882\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8c3d0b554a6a5e054ea5910494373882\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\975946c6c0b224c194fb6a1ee1144bcd\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\975946c6c0b224c194fb6a1ee1144bcd\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\05735486abaa0232de7505457cf32b91\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\05735486abaa0232de7505457cf32b91\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bea8dce5f7660aec7ee4e3280bcb0ce1\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\bea8dce5f7660aec7ee4e3280bcb0ce1\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8033cb968c3ac852cc8fc9cfe6eebb3\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8033cb968c3ac852cc8fc9cfe6eebb3\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\74242cf24a9cb4ce563f39ed4ede5a82\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\74242cf24a9cb4ce563f39ed4ede5a82\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\15a161501a700942e1a1a7cc549b8aee\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\15a161501a700942e1a1a7cc549b8aee\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\a9f7757ed05a1519e3770652edb0e144\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\a9f7757ed05a1519e3770652edb0e144\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\53d1277b5ea1312aa6b6111499bd9178\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\53d1277b5ea1312aa6b6111499bd9178\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9e3079a89423dbbec76a7d363b27dc10\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\9e3079a89423dbbec76a7d363b27dc10\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\816f03fad6dbf1ec2f40d2d047ee0b77\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\816f03fad6dbf1ec2f40d2d047ee0b77\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\de9e57193576039d4ce1bd932e835e5c\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\de9e57193576039d4ce1bd932e835e5c\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4d2ffd4d65433960d37ab26d0283dd7a\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4d2ffd4d65433960d37ab26d0283dd7a\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2e014dacd155c35c69763b762c9f4de7\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\2e014dacd155c35c69763b762c9f4de7\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8b2bfe03ceb06fe4106fcb45c98b1d4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\d8b2bfe03ceb06fe4106fcb45c98b1d4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0ab1bc8735ec0d2a08fb1a9ce873bad1\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\0ab1bc8735ec0d2a08fb1a9ce873bad1\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5fcce4415961bd6fdc76f352e2a1ca84\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5fcce4415961bd6fdc76f352e2a1ca84\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6fce3fc46d7e7c5c74faaaaa46e40048\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\6fce3fc46d7e7c5c74faaaaa46e40048\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\20bd675250621832d1844b97001f0426\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\20bd675250621832d1844b97001f0426\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\baf22b1b2f984b13bd6846508acd8f08\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\baf22b1b2f984b13bd6846508acd8f08\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5f7ea4519b50860ba98a5f03ee329fb6\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\5f7ea4519b50860ba98a5f03ee329fb6\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f220e106d99fd1f7a6bf4d8bc13ed0a9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\f220e106d99fd1f7a6bf4d8bc13ed0a9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e4238bde6bc3b19b90bed391e7895d88\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\e4238bde6bc3b19b90bed391e7895d88\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8f064835b28fdbe5b907df6a676ebfcc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\8f064835b28fdbe5b907df6a676ebfcc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4b963895792f30003c2b981435d88690\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\4b963895792f30003c2b981435d88690\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b1c5c4d42104516024f8f2a26cf2d7f7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\b1c5c4d42104516024f8f2a26cf2d7f7\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\428b1b810ef9f127d1c82265ccb39f1a\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\428b1b810ef9f127d1c82265ccb39f1a\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AK project\Social-X\app\src\main\AndroidManifest.xml
+activity#com.therockakash.shaketrace.compose.shake.ShakeComposeActivity
+ADDED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:8:9-12:53
+	android:launchMode
+		ADDED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:11:13-48
+	android:exported
+		ADDED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:10:13-36
+	android:theme
+		ADDED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:12:13-50
+	android:name
+		ADDED from [com.github.theRockAkash:shaketrace.compose:v1.5.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\facffbd38a1ae54be75a12515df789da\transformed\shaketrace.compose-v1.5.0\AndroidManifest.xml:9:13-90
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\46dd3ff70909b200861ceb9bb7499962\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fffaafb9d07244ac999cad46d4561492\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\21db7012341857d407ad54b364e9b352\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.itandcstech.SocialX.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.itandcstech.SocialX.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\735a76585fbb49f47eeb4c952b0fc381\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\eb8f11dbad0fe95290a1d7831a962fb3\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.6] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\39560074e07237413c6f28547e51963e\transformed\ui-test-manifest-1.7.6\AndroidManifest.xml:24:13-63
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Ashif Roundpay\.gradle\caches\8.9\transforms\fe3f1d16c8d263081fe47c372c85bf6b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

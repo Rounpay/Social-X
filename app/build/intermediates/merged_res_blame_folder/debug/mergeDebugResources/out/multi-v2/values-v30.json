@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.itandcstech.SocialX.app-mergeDebugResources-63:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashif Roundpay\\.gradle\\caches\\8.9\\transforms\\c4e2d656e53c66ae7909bc2f51acc88c\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
