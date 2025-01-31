@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.hilt.android)
     id("com.google.devtools.ksp")
 }
-/*com.curiousminds.ytcreatorszone*/
+
 android {
     namespace = "com.curiousminds.ytcreatorszone"
     compileSdk = 35
